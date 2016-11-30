@@ -1,0 +1,4 @@
+pyopenssl
+pymemcache
+beanstalkc3
+sqlalchemy
